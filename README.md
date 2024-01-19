@@ -1,4 +1,4 @@
-# ChallengeReduxPromise-Expo
+# WebJumpChallenge-Expo
 Webjump company's challenge in react native
 
 
