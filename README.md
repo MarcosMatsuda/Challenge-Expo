@@ -1,5 +1,5 @@
-# WebJump-ReduxPromise-ReactNative
-Web Jump Agency`s chalenge in react native
+# ChallengeReduxPromise-Expo
+Webjump company's challenge in react native
 
 
 Lista de filmes usando a API aberta.
